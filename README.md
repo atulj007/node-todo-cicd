@@ -1,6 +1,6 @@
 # node-todo-cicd
 
-Run these commands on server:
+Run these commands on server where jenkins is running:
 
 
 `sudo apt install nodejs`
